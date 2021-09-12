@@ -2,6 +2,7 @@
 Here you can find all your course related materials.
 
 * [Time Table Sem 3](https://drive.google.com/file/d/1JWUsj98bi01z4YKXkTOeKA05HkeFQS7j/view?usp=sharing)
+* [Books link](https://drive.google.com/folderview?id=1g--vKXs8g3blDSU-M3UYjm5_L3I_NKv6)
 <br>
 
 ### PHY 201
@@ -10,7 +11,7 @@ Here you can find all your course related materials.
 <span> <span/>
 
 ### PHY 211
-* [Class recordings]()
+* [Class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5xdR8ZZKKdYO50cxyll4zs)
 * <a href = "mailto:skgoyal@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 <span> <span/>
 
@@ -19,9 +20,11 @@ Here you can find all your course related materials.
 * <a href = "mailto:jgeorge@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
   
 ### CHM 211
+* [Class recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp4JXktZCTXuWdhNAEosYt65)
 * <a href = "mailto:samrat@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
   
 ### BIO 201
+* [Class recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp7EK5McfkTSU1RpYyi6ol_C)
 * <a href = "mailto:rhitoban@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
   
 ### BIO 211
@@ -30,10 +33,12 @@ Here you can find all your course related materials.
   
 ### MTH 201
 * [Course website](https://sejdm.github.io/mth201/assignments.html)
+* [Class recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp7KJUA6SmCwgmPyhFvlhNPt)
 * <a href = "mailto:shane@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### IDC 205
 * [Moodle page](https://web.iisermohali.ac.in/moodle/course/view.php?id=772)
+* [Class Recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp7qmrT0AHTe_mNwqgr8MYt0)
 * <a href = "mailto:ravisri@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### IDC 202
