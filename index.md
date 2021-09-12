@@ -6,6 +6,7 @@ Here you can find all your course related materials.
 
 ### PHY 201
 * [PHY 201 class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5kfTwfj67qQ1JLAjuqrQaz)
+* <a href = "mailto:rpotlia11@gmail.com?subject = Feedback&body = Message"> Mail Instructor </a>
 <span> <span/>
 
 ### PHY 211
