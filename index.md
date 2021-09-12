@@ -44,7 +44,7 @@ Will be updated soon
 Will be updated soon
 * <a href = "mailto:rpotlia11@gmail.com?subject = Feedback&body = Message"> Mail Instructor </a>
   
-### Support or Contact
+## Support or Contact
 
 Having trouble with website or have suggestion? 
 Feel free to [Contact me](www.instagram.com/rajesh_potlia/)
