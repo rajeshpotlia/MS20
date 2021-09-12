@@ -53,6 +53,6 @@ Will be updated soon
 ## Support or Contact
 
 Having trouble with website or have suggestion? 
-Feel free to [Contact me](https://forms.gle/Xdtgi1NkuUxufk8X8)
+Feel free to fill up the form [Contact me](https://forms.gle/Xdtgi1NkuUxufk8X8)
 * <a href = "mailto:deanacad@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Acad </a>
 * <a href = "mailto:deanstudents@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Students </a>
