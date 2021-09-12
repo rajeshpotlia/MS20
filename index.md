@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to MS20 Help Deskline
+Here you can find all your course related materials.
 
-You can use the [editor on GitHub](https://github.com/rajeshpotlia/MS20/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## [Time Table Sem 3](https://drive.google.com/file/d/1JWUsj98bi01z4YKXkTOeKA05HkeFQS7j/view?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PHY 201
+[PHY 201 class recordings](
 
 ```markdown
 Syntax highlighted code block
