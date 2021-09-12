@@ -48,3 +48,5 @@ Will be updated soon
 
 Having trouble with website or have suggestion? 
 Feel free to [Contact me](www.instagram.com/rajesh_potlia/)
+* <a href = "mailto:deanacad@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Acad </a>
+* <a href = "mailto:deanstudents@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Students </a>
