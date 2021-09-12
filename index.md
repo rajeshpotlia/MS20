@@ -46,7 +46,8 @@ Will be updated soon
 * <a href = "mailto:rpotlia11@gmail.com?subject = Feedback&body = Message"> Mail Instructor </a>
   
 ### IDC 208
-Will be updated soon
+* [Class Notes](https://drive.google.com/drive/folders/1RVQg9XB32bU5tuE8qwxXKaVHjKQdzsly?usp=sharing)
+* [Class Recordings](https://drive.google.com/drive/folders/1of3-oks6Hh9codGRnDqENm2Of0mez2pB?usp=sharing)
 * <a href = "mailto:rpotlia11@gmail.com?subject = Feedback&body = Message"> Mail Instructor </a>
   
 ## Support or Contact
