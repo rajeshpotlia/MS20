@@ -1,7 +1,7 @@
 ## Welcome to MS20 Help Deskline
 Here you can find all your course related materials.
 
-* [Time Table Sem 3](https://drive.google.com/file/d/1JWUsj98bi01z4YKXkTOeKA05HkeFQS7j/view?usp=sharing)
+* [Time Table Sem 3](https://drive.google.com/file/d/1QaLe_aH47vuN6kEFl3Mvld6QKMGEsUT6/view?usp=sharing)
 * [Books link](https://drive.google.com/folderview?id=1g--vKXs8g3blDSU-M3UYjm5_L3I_NKv6)
 <br>
 
