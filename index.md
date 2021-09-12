@@ -1,36 +1,46 @@
 ## Welcome to MS20 Help Deskline
 Here you can find all your course related materials.
 
-## [Time Table Sem 3](https://drive.google.com/file/d/1JWUsj98bi01z4YKXkTOeKA05HkeFQS7j/view?usp=sharing)
+* [Time Table Sem 3](https://drive.google.com/file/d/1JWUsj98bi01z4YKXkTOeKA05HkeFQS7j/view?usp=sharing)
 
-
+##
 ### PHY 201
-[PHY 201 class recordings](
+* [PHY 201 class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5kfTwfj67qQ1JLAjuqrQaz)
+<span> <span/>
 
-```markdown
-Syntax highlighted code block
+### PHY 211
+* [Class recordings]()
+##
+##
+### CHM 201
+* [Class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp4Xhf29QydvdCdfkvkMHLyx)
 
-# Header 1
-## Header 2
-### Header 3
+### CHM 211
+##
+##
+### BIO 201
 
-- Bulleted
-- List
+### BIO 211
+* [All info sheet](https://docs.google.com/spreadsheets/d/1R4cYy2i8FCsIOIsLwWcLcrHsdTChavAe/edit#gid=2146736409)
+##
+##
+### MTH 201
+* [Course website](https://sejdm.github.io/mth201/assignments.html)
+##
+##
 
-1. Numbered
-2. List
+### IDC 205
+* [Moodle page](https://web.iisermohali.ac.in/moodle/course/view.php?id=772)
 
-**Bold** and _Italic_ and `Code` text
+### IDC 202
+Will be updated soon
 
-[Link](url) and ![Image](src)
-```
+### IDC 208
+Will be updated soon
+##
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajeshpotlia/MS20/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with website or have suggestion? 
+Feel free to [Contact me](www.instagram.com/rajesh_potlia/)
