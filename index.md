@@ -5,31 +5,37 @@ Here you can find all your course related materials.
 * [Referred Books](https://rajeshpotlia.github.io/Referred-Books/)
 * [Books Drive](https://drive.google.com/folderview?id=1g--vKXs8g3blDSU-M3UYjm5_L3I_NKv6)
 * Can't  find idc books, [click here](https://drive.google.com/folderview?id=1fyig2Kw5QiYM-US_HnjR_f_8aKJS_lf-)
-<br> </br>
+
 # Notification Centre
+
 ### Submissions
-* Updating sooon
+* Updating soon
+
 ### Quizes
 * Updating soon
+
 # Courses
+
 ### PHY 201
 * [Class Recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5kfTwfj67qQ1JLAjuqrQaz)
 * <a href = "mailto:	kinjalk@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
+
 ### PHY 211
 * [Class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5xdR8ZZKKdYO50cxyll4zs)
 * <a href = "mailto:skgoyal@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
+
 ### CHM 201
 * [Class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp4Xhf29QydvdCdfkvkMHLyx)
 * <a href = "mailto:jgeorge@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
-  
+
 ### CHM 211
 * [Class recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp4JXktZCTXuWdhNAEosYt65)
-* <a href = "mailto:samrat@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
-  
+* <a href = "mailto:samrat@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>  
+
 ### BIO 201
 * [Class recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp7EK5McfkTSU1RpYyi6ol_C)
 * <a href = "mailto:rhitoban@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
-  
+
 ### BIO 211
 * [All info sheet](https://docs.google.com/spreadsheets/d/1R4cYy2i8FCsIOIsLwWcLcrHsdTChavAe/edit#gid=2146736409)
 * <a href = "mailto:prasad@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
