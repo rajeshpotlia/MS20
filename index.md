@@ -8,7 +8,7 @@ Here you can find all your course related materials.
 <br> </br>
 # Notification Centre
 ### Submissions
-* Updating soon1
+* Updating sooon
 ### Quizes
 * Updating soon
 # Courses
