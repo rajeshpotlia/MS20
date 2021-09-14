@@ -5,22 +5,19 @@ Here you can find all your course related materials.
 * [Referred Books](https://rajeshpotlia.github.io/Referred-Books/)
 * [Books Drive](https://drive.google.com/folderview?id=1g--vKXs8g3blDSU-M3UYjm5_L3I_NKv6)
 * Can't  find idc books, [click here](https://drive.google.com/folderview?id=1fyig2Kw5QiYM-US_HnjR_f_8aKJS_lf-)
+<br> </br>
 # Notification Centre
 ### Submissions
-* Updating soon
+* Updating soon1
 ### Quizes
 * Updating soon
 # Courses
 ### PHY 201
 * [Class Recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5kfTwfj67qQ1JLAjuqrQaz)
 * <a href = "mailto:	kinjalk@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
-<span> <span/>
-
 ### PHY 211
 * [Class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5xdR8ZZKKdYO50cxyll4zs)
 * <a href = "mailto:skgoyal@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
-<span> <span/>
-
 ### CHM 201
 * [Class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp4Xhf29QydvdCdfkvkMHLyx)
 * <a href = "mailto:jgeorge@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
