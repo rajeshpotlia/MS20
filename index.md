@@ -9,10 +9,13 @@ Here you can find all your course related materials.
 # Notification Centre
 
 ### Submissions
-* Updating soon
+* BIO211: 18/09
+1. Q/A as typed pdf Experiment 1
+2. Data of Experiment 2
 
 ### Quizes
-* Updating soon
+* IDC202:
+ Quiz at the end of this month or during the beginning of next month
 
 # Courses
 
