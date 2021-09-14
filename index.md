@@ -41,6 +41,7 @@ Here you can find all your course related materials.
 
 ### BIO 211
 * [All info sheet](https://docs.google.com/spreadsheets/d/1R4cYy2i8FCsIOIsLwWcLcrHsdTChavAe/edit#gid=2146736409)
+* [Class recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp40S6ChVpuJEzpO1q4GO4FI)
 * <a href = "mailto:prasad@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
   
 ### MTH 201
