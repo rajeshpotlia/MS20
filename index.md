@@ -67,6 +67,10 @@ Will be updated soon
 
 Having trouble with website or have suggestion? 
   <br>
-Feel free to fill up the form [Contact me](https://forms.gle/Xdtgi1NkuUxufk8X8)
+Feel free to fill up the form = [Fill Form](https://forms.gle/Xdtgi1NkuUxufk8X8)
+### Connect to me 
+* [Whatsapp](https://wa.me/918684899023/?text=Hii)
+* [Instagram](https://www.instagram.com/rajesh_potlia/)
+### Connect Officials
 * <a href = "mailto:deanacad@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Acad </a>
 * <a href = "mailto:deanstudents@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Students </a>
