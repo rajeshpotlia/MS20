@@ -1,12 +1,6 @@
 ## Welcome to MS20 Help Deskline
 Here you can find all your course related materials.
 
-|  Subject      |  Submissions                   |   Deadline    |
-| ------------- | -------------                  | ------------- |
-| BIO211        | Q/A as typed pdf Experiment 1  | 18-09-2021    |
-| BIO211        | Data of Experiment 2           | 18-09-2021    |
-
-
 * [Time Table Sem 3](https://drive.google.com/file/d/1QaLe_aH47vuN6kEFl3Mvld6QKMGEsUT6/view?usp=sharing)
 * [Referred Books](https://rajeshpotlia.github.io/Referred-Books/)
 * [Books Drive](https://drive.google.com/folderview?id=1g--vKXs8g3blDSU-M3UYjm5_L3I_NKv6)
@@ -15,9 +9,12 @@ Here you can find all your course related materials.
 # Notification Centre
 
 ### Submissions
-* BIO211: 18/09
-1. Q/A as typed pdf Experiment 1
-2. Data of Experiment 2
+
+|  Subject      |  Submissions                   |   Deadline    |
+| ------------- | -------------                  | ------------- |
+| BIO211        | Q/A as typed pdf Experiment 1  | 18-09-2021    |
+| BIO211        | Data of Experiment 2           | 18-09-2021    |
+
 
 ### Quizes
 * IDC202:
