@@ -14,11 +14,18 @@ Here you can find all your course related materials.
 | ------------- | -------------                  | ------------- |
 | BIO211        | Q/A as typed pdf Experiment 1  | 18-09-2021    |
 | BIO211        | Data of Experiment 2           | 18-09-2021    |
+| IDC 205       |      HW-1 assignment           | 24-09-2021    |
 
 
 ### Quizes
 * IDC202:
  Quiz at the end of this month or during the beginning of next month
+* IDC 208:
+ Surprise quiz next week on Moodle
+* MTH 201: 
+ Quiz on 24/09
+* CHM 201: 
+ Surprise quiz (tentative)
 
 # Courses
 
