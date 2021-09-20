@@ -12,8 +12,6 @@ Here you can find all your course related materials.
 
 |  Subject      |  Submissions                   |   Deadline    |
 | ------------- | -------------                  | ------------- |
-| BIO211        | Q/A as typed pdf Experiment 1  | 18-09-2021    |
-| BIO211        | Data of Experiment 2           | 18-09-2021    |
 | IDC 205       |      HW-1 assignment           | 24-09-2021    |
 
 
