@@ -8,12 +8,14 @@ Here you can find all your course related materials.
 
 # Notification Centre
 <strong style="color :red; ">Important! MTH 201 quiz is on this friday.</strong>
+<strong style="color :red; ">Important! BIO 201 quiz is tomorrow.</strong>
 ### Submissions
 
 |  Subject      |  Submissions                   |   Deadline    |
 | ------------- | -------------                  | ------------- |
 | IDC 205       |      HW-1 assignment           | 24-09-2021    |
-
+| BIO 211       | Exp 2 question answers         | 25-09-2021    |
+|BIO 211        |   EXP 3 Data and q/a           | 02-10-2021    |
 
 ### Quizes
 * IDC202:
@@ -24,6 +26,10 @@ Here you can find all your course related materials.
  Quiz on 24/09
 * CHM 201: 
  Surprise quiz (tentative)
+* PHY 201 :
+ Quiz on 29/09
+* BIO 201 :
+ Quiz on 23/09
 
 # Courses
 
