@@ -42,7 +42,7 @@ Here you can find all your course related materials.
 * <a href = "mailto:skgoyal@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### CHM 201
-* [Class recordings](https://drive.google.com/drive/folders/1M6gsa_VEQ70lLeazHGHmefg7v9dLIWHB?usp=sharing)
+* [Class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp4Xhf29QydvdCdfkvkMHLyx)
 * [Lecture Notes](https://drive.google.com/drive/folders/1Qv_xoBOTRZkuGpQj26HOZJicqHFnFlxS?usp=sharing)
 * <a href = "mailto:jgeorge@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
