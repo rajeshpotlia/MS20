@@ -34,6 +34,8 @@ Here you can find all your course related materials.
 # Courses
 
 ### PHY 201
+[![CLASS RECORDINGS](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5kfTwfj67qQ1JLAjuqrQaz.jpg)](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5kfTwfj67qQ1JLAjuqrQaz)
+
 * [Class Recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5kfTwfj67qQ1JLAjuqrQaz)
 * <a href = "mailto:	kinjalk@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
