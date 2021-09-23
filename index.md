@@ -7,7 +7,7 @@ Here you can find all your course related materials.
 * Can't  find idc books, [click here](https://drive.google.com/folderview?id=1fyig2Kw5QiYM-US_HnjR_f_8aKJS_lf-)
 
 # Notification Centre
-<strong style="color :red; ">Important! MTH 201 quiz is on this friday.</strong> <br>
+<strong style="color :red; ">Important! MTH 201 quiz is postponed.</strong> <br>
 <strong style="color :red; ">Important! BIO 201 quiz is on next thursday.</strong>
 ### Submissions
 
