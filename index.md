@@ -79,7 +79,7 @@ Will be updated soon
 * <a href = "mailto:rpotlia11@gmail.com?subject = Feedback&body = Message"> Mail Instructor </a>
   
 ## Support or Contact
-<form action="http://formspree.io/rpotlia11@email.com"><input type="email" name="_replyto" placeholder=" Your email"><textarea   name="body"></textarea><input type="submit" placeholder="Enter your message here" value="Send"></form>
+<form action="http://formspree.io/rpotlia11@email.com" method="POST"><input type="email" name="_replyto" placeholder=" Your email"><textarea   name="body"></textarea><input type="submit" placeholder="Enter your message here" value="Send"></form>
 
 Having trouble with website or have suggestion? 
   <br>
