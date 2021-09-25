@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="free-studing-vector.jpg">
-
 ## Welcome to MS20 Help Deskline
 Here you can find all your course related materials.
 
@@ -95,3 +93,8 @@ Feel free to fill up the form = [Fill Form](https://forms.gle/Xdtgi1NkuUxufk8X8)
 # Entertainment Corner
 <br>
 <iframe width="500" height="280" src="https://www.youtube.com/embed/YHO3Lrval0o" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="free-studing-vector.jpg">
+ </head>
