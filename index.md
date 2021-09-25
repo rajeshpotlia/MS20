@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="free-studing-vector.jpg">
+
 ## Welcome to MS20 Help Deskline
 Here you can find all your course related materials.
 
