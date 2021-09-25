@@ -96,5 +96,5 @@ Feel free to fill up the form = [Fill Form](https://forms.gle/Xdtgi1NkuUxufk8X8)
 
 
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="free-studing-vector.jpg">
+<link rel="shortcut icon" type="image/x-icon" href="free-studing-vector.jpg?">
  </head>
