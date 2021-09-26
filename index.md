@@ -10,8 +10,8 @@ Have a look on this article.<br>
 <a href="https://rajeshpotlia.blogspot.com/2021/09/stress-management.html" style="color: red">Read Article</a>
 
 # Notification Centre
-<strong style="color :red; ">Important! MTH 201 quiz is postponed.</strong> <br>
-<strong style="color :red; ">Important! BIO 201 quiz is on next thursday.</strong>
+<strong style="color :red; "></strong> <br>
+<strong style="color :red; "></strong>
 ### Submissions
 
 |  Subject      |  Submissions                   |   Deadline    |
