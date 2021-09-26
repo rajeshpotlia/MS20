@@ -5,6 +5,9 @@ Here you can find all your course related materials.
 * [Referred Books](https://rajeshpotlia.github.io/Referred-Books/)
 * [Books Drive](https://drive.google.com/folderview?id=1g--vKXs8g3blDSU-M3UYjm5_L3I_NKv6)
 * Can't  find idc books, [click here](https://drive.google.com/folderview?id=1fyig2Kw5QiYM-US_HnjR_f_8aKJS_lf-)
+# Stress Management 
+Have a look on this article.<br>
+<a href="https://rajeshpotlia.blogspot.com/2021/09/stress-management.html" style="color: red">Read Article</a>
 
 # Notification Centre
 <strong style="color :red; ">Important! MTH 201 quiz is postponed.</strong> <br>
@@ -90,6 +93,3 @@ Feel free to fill up the form = [Fill Form](https://forms.gle/Xdtgi1NkuUxufk8X8)
 * <a href = "mailto:deanacad@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Acad </a>
 * <a href = "mailto:deanstudents@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Students </a>
 
-# Entertainment Corner
-<br>
-<iframe width="500" height="280" src="https://www.youtube.com/embed/YHO3Lrval0o" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
