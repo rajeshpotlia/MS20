@@ -11,29 +11,25 @@ Have a look on this article.<br>
 <a href="https://rajeshpotlia.blogspot.com/2021/09/stress-management.html" style="color: red">Read Article</a>
 
 # Notification Centre
-<strong style="color :red; "></strong> <br>
+<strong style="color :red; ">MTH 201 Quiz 1 is today.</strong> <br>
 <strong style="color :red; "></strong>
 ### Submissions
 
 |  Subject      |  Submissions                   |   Deadline    |
 | ------------- | -------------                  | ------------- |
-| IDC 205       |      HW-1 assignment           | 24-09-2021    |
-| BIO 211       | Exp 2 question answers         | 25-09-2021    |
-|BIO 211        |   EXP 3 Data and q/a           | 02-10-2021    |
+|BIO 211        |   EXP 3 Data and q/a           | 09-10-2021    |
+| PHY 201       |      Assignment 1              | 11-10-2021    |
+| CHM 211       | Exp 1,2,3 report               | 12-10-2021    |
+
 
 ### Quizes
 * IDC202:
- Quiz at the end of this month or during the beginning of next month
+ Quiz on 04/10/2021
 * IDC 208:
- Surprise quiz next week on Moodle
-* MTH 201: 
- Quiz on 24/09
-* CHM 201: 
- Surprise quiz (tentative)
+ Quiz on 05/10/2021
 * PHY 201 :
- Quiz on 29/09
-* BIO 201 :
- Quiz on 23/09
+ Quiz on 04/10/2021
+
 
 # Courses
 
