@@ -11,7 +11,7 @@ Have a look on this article.<br>
 <a href="https://rajeshpotlia.blogspot.com/2021/09/stress-management.html" style="color: red">Read Article</a>
 
 # Notification Centre
-<strong style="color :red; ">MTH 201 Quiz 1 is today.</strong> <br>
+<strong style="color :red; "></strong> <br>
 <strong style="color :red; "></strong>
 ### Submissions
 
@@ -29,6 +29,18 @@ Have a look on this article.<br>
  Quiz on 05/10/2021
 * PHY 201 :
  Quiz on 04/10/2021
+
+# Help Sessions
+
+### CHM 201
+* Every sunday at 5pm [ Meeting Link](https://meet.google.com/goh-wnts-qnb)
+
+### MTH 201
+* [ Meeting Link](https://meet.google.com/iyf-eakv-hey)
+
+### BIO 201
+* [ Meeting Link](https://zoom.us/j/94783882110?pwd=d2wvK1o4TzFkTVdHeUZ4MGJzclF3QT09)
+
 
 
 # Courses
