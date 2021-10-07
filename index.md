@@ -18,17 +18,17 @@ Have a look on this article.<br>
 |  Subject      |  Submissions                   |   Deadline    |
 | ------------- | -------------                  | ------------- |
 |BIO 211        |   EXP 3 Data and q/a           | 09-10-2021    |
+|BIO 211        |   EXP 4                        | 16-10-2021    |
 | PHY 201       |      Assignment 1              | 11-10-2021    |
 | CHM 211       | Exp 1,2,3 report               | 12-10-2021    |
+| PHY 211       |      EXP 1, 2 REPORT           | 19-10-2021    |
 
 
 ### Quizes
-* IDC202:
- Quiz on 04/10/2021
-* IDC 208:
- Quiz on 05/10/2021
-* PHY 201 :
- Quiz on 04/10/2021
+* BIO 201 :
+ Quiz on 13/10/2021
+* MTH 201 :
+ Quiz on 11/10/2021
 
 # Help Sessions
 
