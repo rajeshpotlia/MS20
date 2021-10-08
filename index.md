@@ -82,7 +82,7 @@ Have a look on this article.<br>
 * <a href = "mailto:ravisri@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### IDC 202
-Will be updated soon
+* [Moodle page](https://web.iisermohali.ac.in/moodle/course/view.php?id=799)
 * <a href = "mailto:rpotlia11@gmail.com?subject = Feedback&body = Message"> Mail Instructor </a>
   
 ### IDC 208
