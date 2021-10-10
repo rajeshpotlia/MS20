@@ -17,7 +17,6 @@ Have a look on this article.<br>
 
 |  Subject      |  Submissions                   |   Deadline    |
 | ------------- | -------------                  | ------------- |
-|BIO 211        |   EXP 3 Data and q/a           | 09-10-2021    |
 |BIO 211        |   EXP 4                        | 16-10-2021    |
 | PHY 201       |      Assignment 1              | 11-10-2021    |
 | CHM 211       | Exp 1,2,3 report               | 12-10-2021    |
@@ -29,17 +28,6 @@ Have a look on this article.<br>
  Quiz on 13/10/2021
 * MTH 201 :
  Quiz on 11/10/2021
-
-# Help Sessions
-
-### CHM 201
-* Every sunday at 5pm [ Meeting Link](https://meet.google.com/goh-wnts-qnb)
-
-### MTH 201
-* [ Meeting Link](https://meet.google.com/iyf-eakv-hey)
-
-### BIO 201
-* [ Meeting Link](https://zoom.us/j/94783882110?pwd=d2wvK1o4TzFkTVdHeUZ4MGJzclF3QT09)
 
 
 
