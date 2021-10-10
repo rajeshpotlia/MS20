@@ -19,7 +19,7 @@ Have a look on this article.<br>
 | ------------- | -------------                  | ------------- |
 |BIO 211        |   EXP 4                        | 16-10-2021    |
 | PHY 201       |      Assignment 1              | 11-10-2021    |
-| CHM 211       | Exp 1,2,3 report               | 12-10-2021    |
+| CHM 211       | Exp 1,2,3 report               | 19-10-2021    |
 | PHY 211       |      EXP 1, 2 REPORT           | 19-10-2021    |
 
 
