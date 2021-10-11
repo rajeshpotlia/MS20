@@ -12,7 +12,8 @@ Have a look on this article.<br>
 
 # Notification Centre
 <strong style="color :red; ">There is an IDC 208 quiz tomorrow.</strong> <br>
-<strong style="color :red; "></strong>
+<strong style="color :red; ">BC jisne bhi phy 201 ka assignment nhi kiya h, vo jaldi kro submit.</strong>
+
 ### Submissions
 
 |  Subject      |  Submissions                   |   Deadline    |
