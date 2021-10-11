@@ -12,14 +12,14 @@ Have a look on this article.<br>
 
 # Notification Centre
 <strong style="color :red; ">There is an IDC 208 quiz tomorrow.</strong> <br>
-<strong style="color :red; ">BC jisne bhi phy 201 ka assignment nhi kiya h, vo jaldi kro submit.</strong>
+<strong style="color :red; "></strong>
 
 ### Submissions
 
 |  Subject      |  Submissions                   |   Deadline    |
 | ------------- | -------------                  | ------------- |
 |BIO 211        |   EXP 4                        | 16-10-2021    |
-| PHY 201       |      Assignment 1              | 11-10-2021    |
+|BIO 211        |   EXP 5                        | 30-10-2021    |
 | CHM 211       | Exp 1,2,3 report               | 19-10-2021    |
 | PHY 211       |      EXP 1, 2 REPORT           | 19-10-2021    |
 
@@ -29,6 +29,8 @@ Have a look on this article.<br>
  Quiz on 13/10/2021
 * MTH 201 :
  Quiz on 11/10/2021
+* CHM 201 :
+ Quiz on 13/10/2021
 
 
 
