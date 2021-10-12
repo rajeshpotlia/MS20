@@ -11,7 +11,7 @@ Have a look on this article.<br>
 <a href="https://rajeshpotlia.blogspot.com/2021/09/stress-management.html" style="color: red">Read Article</a>
 
 # Notification Centre
-<strong style="color :red; ">There is an IDC 208 quiz tomorrow.</strong> <br>
+<strong style="color :red; ">There is BIO 201, CHM 201 quiz tomorrow.</strong> <br>
 <strong style="color :red; "></strong>
 
 ### Submissions
@@ -27,8 +27,6 @@ Have a look on this article.<br>
 ### Quizes
 * BIO 201 :
  Quiz on 13/10/2021
-* MTH 201 :
- Quiz on 11/10/2021
 * CHM 201 :
  Quiz on 13/10/2021
 
