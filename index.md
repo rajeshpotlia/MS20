@@ -1,4 +1,16 @@
 ## Welcome to MS20 Help Deskline
+
+### Mid sem schedule
+
+|  Subject      |   Date        |    Time     |
+| ------------- | ------------- | ----------- |
+|PHY 201        | 20-10-2021    | 9am - 10am  |
+|CHM 201        | 21-10-2021    | 9am - 10am  |
+| IDC           | 21-10-2021    | 4pm - 5pm   |
+| MTH 201       | 22-10-2021    | 9am - 10am  |
+| BIO 201       | 22-10-2021    | 4pm - 5pm   |
+
+
 Here you can find all your course related materials.
 
 * [Time Table Sem 3](https://drive.google.com/file/d/1QaLe_aH47vuN6kEFl3Mvld6QKMGEsUT6/view?usp=sharing)
@@ -22,14 +34,6 @@ Have a look on this article.<br>
 |BIO 211        |   EXP 5                        | 30-10-2021    |
 | CHM 211       | Exp 1,2,3 report               | 19-10-2021    |
 | PHY 211       |      EXP 1, 2 REPORT           | 19-10-2021    |
-
-
-### Quizes
-* BIO 201 :
- Quiz on 13/10/2021
-* CHM 201 :
- Quiz on 13/10/2021
-
 
 
 # Courses
