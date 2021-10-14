@@ -23,8 +23,8 @@ Have a look on this article.<br>
 <a href="https://rajeshpotlia.blogspot.com/2021/09/stress-management.html" style="color: red">Read Article</a>
 
 # Notification Centre
-<strong style="color :red; ">There is BIO 201 quiz today.</strong> <br>
-<strong style="color :red; ">The ones who are in library can use earphones but need to turn on vedio.</strong>
+<strong style="color :red; "></strong> <br>
+<strong style="color :red; "></strong>
 
 ### Submissions
 
