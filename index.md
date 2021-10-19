@@ -1,4 +1,42 @@
-##  MS20 Help Deskline
+## Welcome to MS20 Help Deskline
+
+### Mid sem schedule
+
+|  Subject      |   Date        |    Time     |
+| ------------- | ------------- | ----------- |
+|PHY 201        | 20-10-2021    | 9am - 10am  |
+|CHM 201        | 21-10-2021    | 9am - 10am  |
+| IDC           | 21-10-2021    | 4pm - 5pm   |
+| MTH 201       | 22-10-2021    | 9am - 10am  |
+| BIO 201       | 22-10-2021    | 4pm - 5pm   |
+
+
+Here you can find all your course related materials.
+
+* [Time Table Sem 3](https://drive.google.com/file/d/1QaLe_aH47vuN6kEFl3Mvld6QKMGEsUT6/view?usp=sharing)
+* [Referred Books](https://rajeshpotlia.github.io/Referred-Books/)
+* [Books Drive](https://drive.google.com/folderview?id=1g--vKXs8g3blDSU-M3UYjm5_L3I_NKv6)
+* Can't  find idc books, [click here](https://drive.google.com/folderview?id=1fyig2Kw5QiYM-US_HnjR_f_8aKJS_lf-)
+
+# Stress Management 
+Have a look on this article.<br>
+<a href="https://rajeshpotlia.blogspot.com/2021/09/stress-management.html" style="color: red">Read Article</a>
+
+# Notification Centre
+<strong style="color :red; "></strong> <br>
+<strong style="color :red; "></strong>
+
+### Submissions
+
+|  Subject      |  Submissions                   |   Deadline    |
+| ------------- | -------------                  | ------------- |
+|BIO 211        |   EXP 4                        | 19-10-2021    |
+|BIO 211        |   EXP 5                        | 6-11-2021     |
+| CHM 211       | Exp 1,2,3 report               | 24-10-2021    |
+| PHY 211       |      EXP 1, 2 REPORT           | 25-10-2021    |
+| IDC 205       |     Assignment 2               | 28-10-2021    |
+
+
 
 
 # Courses
@@ -47,4 +85,16 @@
 * [Class Notes](https://drive.google.com/drive/folders/1RVQg9XB32bU5tuE8qwxXKaVHjKQdzsly?usp=sharing)
 * [Class Recordings](https://drive.google.com/drive/folders/1of3-oks6Hh9codGRnDqENm2Of0mez2pB?usp=sharing)
 * <a href = "mailto:rpotlia11@gmail.com?subject = Feedback&body = Message"> Mail Instructor </a>
+  
+## Support or Contact
+
+Having trouble with website or have suggestion? 
+  <br>
+Feel free to fill up the form = [Fill Form](https://forms.gle/Xdtgi1NkuUxufk8X8)
+### Connect to me 
+* [Whatsapp](https://wa.me/918684899023/?text=Hii)
+* [Instagram](https://www.instagram.com/rajesh_potlia/)
+### Connect Officials
+* <a href = "mailto:deanacad@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Acad </a>
+* <a href = "mailto:deanstudents@iisermohali.ac.in?subject = Feedback&body = Message"> Contact Dean Students </a>
 
