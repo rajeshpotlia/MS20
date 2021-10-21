@@ -1,5 +1,5 @@
 ## Welcome to MS20 Help Deskline
-
+<strong style="color :red; ">IMPORTANT: Doubly vaccinated poor people must appear for BIO 201 offline exam at 03:45 pm tomorrow</strong> <br>
 ### Mid sem schedule
 
 |  Subject      |   Date        |    Time     |
@@ -30,7 +30,6 @@ Have a look on this article.<br>
 
 |  Subject      |  Submissions                   |   Deadline    |
 | ------------- | -------------                  | ------------- |
-|BIO 211        |   EXP 4                        | 19-10-2021    |
 |BIO 211        |   EXP 5                        | 6-11-2021     |
 | CHM 211       | Exp 1,2,3 report               | 24-10-2021    |
 | PHY 211       |      EXP 1, 2 REPORT           | 25-10-2021    |
