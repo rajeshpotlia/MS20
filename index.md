@@ -1,6 +1,6 @@
 ## Welcome to MS20 Help Deskline
-<strong style="color :red; ">“Challenge and adversity are meant to help you know who you are. Storms hit your weakness, but unlock your true strength.”</strong> <br>
-:Best of luck to Doubly vaccinated heroes.
+<strong style="color :#f803fc; ">“Challenge and adversity are meant to help you know who you are. Storms hit your weakness, but unlock your true strength.”</strong> <br>
+:Best of luck to our Doubly vaccinated heroes.
 <strong style="color :red; "></strong> <br>
 ### Mid sem schedule
 
