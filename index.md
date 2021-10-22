@@ -1,5 +1,5 @@
 ## Welcome to MS20 Help Deskline
-<strong style="color :red; ">IMPORTANT: Doubly vaccinated poor people must appear for BIO 201 offline exam at 03:45 pm tomorrow</strong> <br>
+<strong style="color :red; ">IMPORTANT: Doubly vaccinated poor people must appear for BIO 201 offline exam at 03:45 pm today</strong> <br>
 ### Mid sem schedule
 
 |  Subject      |   Date        |    Time     |
