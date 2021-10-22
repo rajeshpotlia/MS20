@@ -1,5 +1,7 @@
 ## Welcome to MS20 Help Deskline
-<strong style="color :red; ">IMPORTANT: Doubly vaccinated poor people must appear for BIO 201 offline exam at 03:45 pm today</strong> <br>
+<strong style="color :red; ">“Challenge and adversity are meant to help you know who you are. Storms hit your weakness, but unlock your true strength.”</strong> <br>
+:Best of luck to Doubly vaccinated heroes.
+<strong style="color :red; "></strong> <br>
 ### Mid sem schedule
 
 |  Subject      |   Date        |    Time     |
