@@ -21,8 +21,10 @@ Have a look on this article.<br>
 |  Subject      |  Submissions                   |   Deadline    |
 | ------------- | -------------                  | ------------- |
 |BIO 211        |   EXP 5                        | 6-11-2021     |
+|BIO 211        |   EXP 6                        | 13-11-2021    |
 | PHY 211       |      EXP 1, 2 REPORT           | 25-10-2021    |
 | IDC 205       |     Assignment 2               | 28-10-2021    |
+| PHY 201       |  Assignment 2                  | 02-11-2021    |
 
 
 
