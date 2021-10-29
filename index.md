@@ -19,13 +19,14 @@ Have a look on this article.<br>
 
 ### Submissions
 
-|  Subject      |  Submissions                   |   Deadline    |
-| ------------- | -------------                  | ------------- |
-|BIO 211        |   EXP 5                        | 6-11-2021     |
-|BIO 211        |   EXP 6                        | 13-11-2021    |
-| PHY 211       |      EXP 1, 2 REPORT           | 25-10-2021    |
-| IDC 205       |     Assignment 2               | 28-10-2021    |
-| PHY 201       |  Assignment 2                  | 02-11-2021    |
+|  Subject                                                                                        |  Submissions                   |   Deadline    |
+| ----------------------------------------------------------------------------------------------- | -------------                  | ------------- |
+|[BIO 211](https://classroom.google.com/u/0/c/NDAwNjA4NDc0MTg1/a/NDEwNzY5NTIyODUz/details)        |   EXP 5                        | 6-11-2021     |
+|[BIO 211](https://classroom.google.com/u/0/c/NDAwNjA4NDc0MTg1/a/NDE3NTM1MzEyMDY2/details)        |   EXP 6                        | 13-11-2021    |
+| PHY 211                                                                                         |      EXP 1, 2 REPORT           | 25-10-2021    |
+| IDC 205                                                                                         |     Assignment 2               | 28-10-2021    |
+| PHY 201                                                                                         |  Assignment 2                  | 02-11-2021    |
+| [CHM 211](https://docs.google.com/forms/d/1pjt460H1tXai7NZJgacLmO47OWoA5bsLmGVr4jy2NP8/edit)    |  Report Submission             | 01-11-2021    |
 
 
 
