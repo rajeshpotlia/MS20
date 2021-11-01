@@ -28,6 +28,13 @@ Have a look on this article.<br>
 | [CHM 211](https://docs.google.com/forms/d/1pjt460H1tXai7NZJgacLmO47OWoA5bsLmGVr4jy2NP8/edit)    |  Report Submission             | 01-11-2021    |
 
 
+### Quizes
+
+|  Subject                |             Date                 |
+|-------------------------|----------------------------------|
+|    PHY 211              |             18-11-2021           |
+|    IDC 202              |             08-11-2021           |
+
 
 
 # Courses
