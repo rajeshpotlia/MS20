@@ -1,5 +1,7 @@
 ## Welcome to MS20 Help Deskline
 
+<strong style="color :red; ">BIO 211 class on 08/11/2021 is cancelled.<a href="https://youtu.be/YLF4sKkUzSQ" style="color: Purple">Learn More</a></strong> <br>
+
 Here you can find all your course related materials.
 
 * [Time Table Sem 3](https://drive.google.com/file/d/1QaLe_aH47vuN6kEFl3Mvld6QKMGEsUT6/view?usp=sharing)
@@ -21,11 +23,9 @@ Have a look on this article.<br>
 
 |  Subject                                                                                        |  Submissions                   |   Deadline    |
 | ----------------------------------------------------------------------------------------------- | -------------                  | ------------- |
-|[BIO 211](https://classroom.google.com/u/0/c/NDAwNjA4NDc0MTg1/a/NDEwNzY5NTIyODUz/details)        |   EXP 5                        | 6-11-2021     |
 |[BIO 211](https://classroom.google.com/u/0/c/NDAwNjA4NDc0MTg1/a/NDE3NTM1MzEyMDY2/details)        |   EXP 6                        | 13-11-2021    |
 | PHY 211                                                                                         |      EXP 1, 2 REPORT           | 25-10-2021    |
-| [PHY 201](https://web.iisermohali.ac.in/moodle/mod/assign/view.php?id=12697)                    |  Assignment 2                  | 02-11-2021    |
-| [CHM 211](https://docs.google.com/forms/d/1pjt460H1tXai7NZJgacLmO47OWoA5bsLmGVr4jy2NP8/edit)    |  Report Submission             | 01-11-2021    |
+| [PHY 201](https://web.iisermohali.ac.in/moodle/mod/assign/view.php?id=12697)                    |  Assignment 2                  | 08-11-2021    |
 
 
 ### Quizes
@@ -33,7 +33,7 @@ Have a look on this article.<br>
 |  Subject                |             Date                 |
 |-------------------------|----------------------------------|
 |    PHY 211              |             18-11-2021           |
-|    IDC 202              |             08-11-2021           |
+|    IDC 202              |             09-11-2021           |
 
 
 
