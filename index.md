@@ -1,7 +1,7 @@
 ## Welcome to MS20 Help Deskline
 
 <strong style="color :red; ">You must submit your PHY 201 assignment by 11:59 PM today. <br>
-Link given in submission table below. </strong> <br>
+[Click to Submit](https://web.iisermohali.ac.in/moodle/mod/assign/view.php?id=12697) </strong> <br>
 
 Here you can find all your course related materials.
 
