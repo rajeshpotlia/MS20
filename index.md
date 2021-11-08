@@ -1,6 +1,7 @@
 ## Welcome to MS20 Help Deskline
 
-<strong style="color :red; ">BIO 211 class on 08/11/2021 is cancelled.<a href="https://youtu.be/YLF4sKkUzSQ" style="color: Purple"><u>Learn More</u></a></strong> <br>
+<strong style="color :red; ">You must submit your PHY 201 assignment by 11:59 PM today. <br>
+Link given in submission table below. </strong> <br>
 
 Here you can find all your course related materials.
 
