@@ -1,7 +1,6 @@
 ## Welcome to MS20 Help Deskline
 
-<strong style="color :red; ">There will be IDC 208 & IDC 202 quiz today. [Learn more](http:/missax.com)
-</strong> <br>
+<strong style="color :red; ">There will be IDC 208 & IDC 202 quiz today. </strong> <br>
 
 Here you can find all your course related materials.
 
