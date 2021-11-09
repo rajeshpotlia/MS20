@@ -1,8 +1,10 @@
 ## Welcome to MS20 Help Deskline
 
-<MARQUEE SCROLLAMOUNT="5" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="alternate" >This text will stop at MOUSEOVER.</MARQUEE>
+<strong style="color :red; "></strong> <br>
 
-<strong style="color :red; ">There will be IDC 208 & IDC 202 quiz today. </strong> <br>
+<MARQUEE style="color :red" SCROLLAMOUNT="5" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="alternate" >Class recordings will no longer be available. Sorry for inconvenience.</MARQUEE>
+
+<strong style="color :red; "></strong> <br>
 
 Here you can find all your course related materials.
 
