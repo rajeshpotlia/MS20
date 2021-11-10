@@ -39,7 +39,7 @@ Here you can find all your course related materials.
 # Courses
 
 ### PHY 201
-* [Class Recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp5kfTwfj67qQ1JLAjuqrQaz)
+* [Class Recordings](https://www.youtube.com/playlist?list=PL5rK-odvyGapCJlHxIp5_cIxxq3YMwSzX)
 * <a href = "mailto:	kinjalk@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### PHY 211
@@ -47,7 +47,7 @@ Here you can find all your course related materials.
 * <a href = "mailto:skgoyal@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### CHM 201
-* [Class recordings](https://www.youtube.com/playlist?list=PLFcOcw2zQTp4Xhf29QydvdCdfkvkMHLyx)
+* [Class recordings](https://www.youtube.com/playlist?list=PL5rK-odvyGaoyT_OHSLQutYKP2T9YGfIh)
 * [Lecture Notes](https://drive.google.com/drive/folders/1Qv_xoBOTRZkuGpQj26HOZJicqHFnFlxS?usp=sharing)
 * <a href = "mailto:jgeorge@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
@@ -56,7 +56,7 @@ Here you can find all your course related materials.
 * <a href = "mailto:samrat@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>  
 
 ### BIO 201
-* [Class recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp7EK5McfkTSU1RpYyi6ol_C)
+* [Class recordings](https://www.youtube.com/playlist?list=PL5rK-odvyGaoufh8OBaCIoQZgijdEyD63)
 * <a href = "mailto:rhitoban@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### BIO 211
@@ -66,12 +66,12 @@ Here you can find all your course related materials.
   
 ### MTH 201
 * [Course website](https://sejdm.github.io/mth201/assignments.html)
-* [Class recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp7KJUA6SmCwgmPyhFvlhNPt)
+* [Class recordings](https://www.youtube.com/playlist?list=PL5rK-odvyGaoN0Ftmhofxd1bf3q9R2izt)
 * <a href = "mailto:shane@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### IDC 205
 * [Moodle page](https://web.iisermohali.ac.in/moodle/course/view.php?id=772)
-* [Class Recordings](https://youtube.com/playlist?list=PLFcOcw2zQTp7qmrT0AHTe_mNwqgr8MYt0)
+* [Class Recordings](https://www.youtube.com/playlist?list=PL5rK-odvyGaoPpuxANIYmVefo5erCYh_O)
 * <a href = "mailto:ravisri@iisermohali.ac.in?subject = Feedback&body = Message"> Mail Instructor </a>
 
 ### IDC 202
