@@ -31,7 +31,6 @@ Here you can find all your course related materials.
 |  Subject                |             Date                 |
 |-------------------------|----------------------------------|
 |    PHY 211              |             18-11-2021           |
-|    IDC 202              |             09-11-2021           |
 |    MTH 201              |             12-11-2021           |
 |    PHY 201              |             15-11-2021           |
 
