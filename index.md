@@ -2,7 +2,7 @@
 
 <strong style="color :red; "></strong> <br>
 
-<MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" > The lecture recordings are available now.</MARQUEE>
+| <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" > The lecture recordings are available now.</MARQUEE> |
 
 <strong style="color :red; "></strong> <br>
 
