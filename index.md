@@ -2,7 +2,7 @@
 
 <strong style="color :red; "></strong> <br>
 
-| <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" > The lecture recordings are available now.</MARQUEE> |
+| <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Today is the deadline for BIO 211 report submission.</MARQUEE> |
 
 <strong style="color :red; "></strong> <br>
 
@@ -31,7 +31,6 @@ Here you can find all your course related materials.
 |  Subject                |             Date                 |
 |-------------------------|----------------------------------|
 |    PHY 211              |             18-11-2021           |
-|    MTH 201              |             12-11-2021           |
 |    PHY 201              |             15-11-2021           |
 
 
