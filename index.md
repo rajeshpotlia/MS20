@@ -2,7 +2,7 @@
 
 <strong style="color :red; "></strong> <br>
 
-| <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Today is the deadline for BIO 211 report submission.</MARQUEE> |
+| <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Happy Children's day.</MARQUEE> |
 
 <strong style="color :red; "></strong> <br>
 
