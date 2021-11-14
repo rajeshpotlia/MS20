@@ -22,8 +22,8 @@ Here you can find all your course related materials.
 
 |  Subject                                                                                        |  Submissions                   |   Deadline    |
 | ----------------------------------------------------------------------------------------------- | -------------                  | ------------- |
-|[BIO 211](https://classroom.google.com/u/0/c/NDAwNjA4NDc0MTg1/a/NDE3NTM1MzEyMDY2/details)        |   EXP 6                        | 13-11-2021    |
-| PHY 211                                                                                         |      EXP 1, 2 REPORT           | 25-10-2021    |
+| PHY 211                                                                                         |      EXP 1, 2 REPORT           | 18-11-2021    |
+| CHM 201                                                                                         |      Assignment - 3            | 14-11-2021    |
 
 
 ### Quizes
