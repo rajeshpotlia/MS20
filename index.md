@@ -1,8 +1,8 @@
 ## Welcome to MS20 Help Deskline
 
-<strong style="color :red; "></strong> <br>
-
-| <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Happy Children's day.</MARQUEE> |
+<!---
+| <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" ></MARQUEE> | 
+--->
 
 <strong style="color :red; "></strong> <br>
 
