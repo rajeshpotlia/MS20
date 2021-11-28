@@ -18,6 +18,12 @@ Here you can find all your course related materials.
 <strong style="color :red; "></strong> <br>
 <strong style="color :red; "></strong>
 
+# Lab Exams (Will be offline)
+* Bio 211: 29th Nov 10.30am
+* Chm 211: 30th Nov 11am
+* Phy 211: 1st and 2nd Dec. To check your time slot <a href = "https://docs.google.com/spreadsheets/d/1bzbOL5qHsmDAGE7l7lpWxDQwoRvk5zTgCrSSOI3x8ms/edit#gid=0" > Click Here </a>
+
+
 ### Submissions
 
 |  Subject                                                                                        |  Submissions                   |   Deadline    |
